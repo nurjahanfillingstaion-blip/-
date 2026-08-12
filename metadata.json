@@ -1,0 +1,8 @@
+{
+  "name": "Asaduzzaman Business",
+  "description": "আসাদুজ্জামান বিজনেসের অফিসিয়াল ওয়েবসাইট ও ইন্টারেক্টিভ সেবা পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
